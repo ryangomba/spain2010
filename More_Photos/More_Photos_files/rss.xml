@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>MORE PHOTOS</title>
+    <link>http://web.me.com/karengomba/Spain/More_Photos/More_Photos.html</link>
+    <description>We took plenty of photos; Between Ryan and George, someone was always snapping away.  And there was so much to capture!  We hope some of these do justice to the awe-inspiring things we saw.
+CLICK ON A PHOTO ALBUM TO OPEN A NEW WINDOW AND SEE A SLIDESHOW!</description>
+    <item>
+      <title>Best of Barcelona</title>
+      <link>http://web.me.com/karengomba/Spain/More_Photos/Pages/Best_of_Barcelona.html</link>
+      <guid isPermaLink="false">92666e7a-0b26-45ec-bbed-e727fd4ffce3</guid>
+    </item>
+    <item>
+      <title>Granada's Greatest</title>
+      <link>http://web.me.com/karengomba/Spain/More_Photos/Pages/Granadas_Greatest.html</link>
+      <guid isPermaLink="false">ba2cc8fe-0294-4e99-bef1-b05a0893849d</guid>
+    </item>
+    <item>
+      <title>Seductive Seville</title>
+      <link>http://web.me.com/karengomba/Spain/More_Photos/Pages/Seductive_Seville.html</link>
+      <guid isPermaLink="false">49755b09-94a9-40a8-b31f-b2a2ef9a0852</guid>
+    </item>
+    <item>
+      <title>Cool Cordoba</title>
+      <link>http://web.me.com/karengomba/Spain/More_Photos/Pages/Cool_Cordoba.html</link>
+      <guid isPermaLink="false">473b7b0c-795f-499f-bc5c-743565d2992f</guid>
+    </item>
+    <item>
+      <title>Magnificent Madrid</title>
+      <link>http://web.me.com/karengomba/Spain/More_Photos/Pages/Magnificent_Madrid.html</link>
+      <guid isPermaLink="false">c99128cd-8757-47bc-ba8c-4a8e3c59a2e4</guid>
+    </item>
+    <item>
+      <title>Terrific Toledo</title>
+      <link>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo.html</link>
+      <guid isPermaLink="false">c0bd8aa1-dde3-4502-aa98-0ed335044663</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>OUR PHOTOS</title>
+    <link>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo.html</link>
+    <description>OUR PHOTOS</description>
+    <item>
+      <title>Train station</title>
+      <link>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo.html#0</link>
+      <guid isPermaLink="false">d2f47ca6-d3b7-4be7-ab48-40cbe8699126</guid>
+      <enclosure url="http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0851.jpg?derivative=web" length="131598" type="image/jpeg"/>
+      <iphoto:thumbnail>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0851.jpg?derivative=thumb</iphoto:thumbnail>
+      <iweb:micro>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0851.jpg?derivative=micro</iweb:micro>
+      <iweb:mip-thumbnail>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0851.jpg?derivative=mip</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_136_28&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Train station&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <link>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo.html#1</link>
+      <guid isPermaLink="false">d50fb4c2-5fad-443d-9755-ae6be31336e2</guid>
+      <enclosure url="http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0865.jpg?derivative=web" length="158315" type="image/jpeg"/>
+      <iphoto:thumbnail>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0865.jpg?derivative=thumb</iphoto:thumbnail>
+      <iweb:micro>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0865.jpg?derivative=micro</iweb:micro>
+      <iweb:mip-thumbnail>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0865.jpg?derivative=mip</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_136_28&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <link>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo.html#2</link>
+      <guid isPermaLink="false">5d825a6d-2808-4fd6-87d1-6f44cfa1b9a6</guid>
+      <enclosure url="http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0871.jpg?derivative=web" length="116998" type="image/jpeg"/>
+      <iphoto:thumbnail>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0871.jpg?derivative=thumb</iphoto:thumbnail>
+      <iweb:micro>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0871.jpg?derivative=micro</iweb:micro>
+      <iweb:mip-thumbnail>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0871.jpg?derivative=mip</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_136_28&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <link>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo.html#3</link>
+      <guid isPermaLink="false">22739810-a7ff-459e-bbf4-b65e08666bc8</guid>
+      <enclosure url="http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0873.jpg?derivative=web" length="108353" type="image/jpeg"/>
+      <iphoto:thumbnail>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0873.jpg?derivative=thumb</iphoto:thumbnail>
+      <iweb:micro>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0873.jpg?derivative=micro</iweb:micro>
+      <iweb:mip-thumbnail>http://web.me.com/karengomba/Spain/More_Photos/Pages/Terrific_Toledo_files/Media/IMG_0873.jpg?derivative=mip</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_136_28&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;/&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
